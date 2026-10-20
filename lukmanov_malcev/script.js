@@ -38,7 +38,6 @@ form.addEventListener("submit", (event) => {
   // TODO 6. Добавьте item в list через list.append(item).
   // TODO 7. Очистите поле: input.value = "";
   // TODO 8. Верните исходный текст в preview.textContent.
-  // TODO 9. Выведите сообщение: "Задача добавлена!".
 });
 
 // ЗАДАНИЕ 3. Событие click: очистите список задач.
